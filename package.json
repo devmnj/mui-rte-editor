@@ -1,0 +1,34 @@
+{
+  "name": "react-ts",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@babel/core": "^7.0.0",
+    "@emotion/react": "^11.5.0",
+    "@emotion/styled": "^11.3.0",
+    "@mui/icons-material": "^5.0.0",
+    "@mui/material": "^5.8.1",
+    "@mui/styles": "^5.0.0",
+    "@types/react": "18.0.9",
+    "@types/react-dom": "18.0.5",
+    "mui-rte": "^2.0.1",
+    "react": "18.1.0",
+    "react-dom": "18.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "@tiptap/core": "^2.0.0-beta.176",
+    "@tiptap/extension-bubble-menu": "^2.0.0-beta.56",
+    "@tiptap/extension-document": "^2.0.0-beta.15",
+    "@tiptap/extension-highlight": "^2.0.0-beta.33",
+    "@tiptap/extension-paragraph": "^2.0.0-beta.23",
+    "@tiptap/extension-text": "^2.0.0-beta.15",
+    "@tiptap/extension-text-align": "^2.0.0-beta.29"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
